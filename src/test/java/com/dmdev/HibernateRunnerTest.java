@@ -61,5 +61,4 @@ class HibernateRunnerTest {
       preparedStatement.setObject(1, declaredField.get(user));
     }
   }
-
 }
